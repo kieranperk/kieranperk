@@ -4,18 +4,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 23 Contributions in the Year 2021
- > 
-> 📦 640 Bytes Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -25,53 +13,6 @@
 🌙 Night      7 commits      ████████░░░░░░░░░░░░░░░░░   31.82%
 
 ```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    7 commits      ████████░░░░░░░░░░░░░░░░░   31.82% 
-Thursday     7 commits      ████████░░░░░░░░░░░░░░░░░   31.82% 
-Friday       8 commits      █████████░░░░░░░░░░░░░░░░   36.36% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in CSS** 
-
-```text
-CSS                      1 repo              █████████████████████████   100.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/MountainTiger144/MountainTiger144/main/charts/bar_graph.png) 
-
-
- Last Updated on 19/08/2021
 <!--END_SECTION:waka-->
 
 -------------------
