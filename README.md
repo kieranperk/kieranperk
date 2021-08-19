@@ -1,9 +1,9 @@
-### Hi there, I'm...
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7AD3FF&size=30&lines=MountainTiger;Founder+Of+Socket+Bot;Always+Learning+New+Skills)](https://git.io/typing-svg)
+### Hey there, I'm...
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7AD3FF&size=30&lines=MountainTiger;Founder+Of+Socket+Bot;A+Discord+Bot+Developer;Learning+New+Skills)](https://git.io/typing-svg)
 
 -------------------
 
-# My Github Stats
+# 📊 My Github Stats
 
 <a href="https://github.com/mountaintiger144">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mountaintiger144&bg_color=12131A&title_color=7ad3ff&text_color=fff&show_icons=true&icon_color=7ad3ff" />
@@ -13,7 +13,7 @@
 
 -------------------
 
-# Socket Development
+# ⚙ Socket Development
 
 Socket is a Discord Bot that I founded on the 12th, August 2021. My original purpose for the bot was nothing but to help me understand the newest version of [Discord.JS](https://discord.js.org/) (v13). This eventually turned into making a full bot [Support Server](https://support.socketbot.xyz) on Discord, and getting others to contribute to the project. None of this would have been possible withought [Nimbi](https://github.com/PhantomNimbi), who gratefully let/helped me host Socket on his servers. He also coded the website [socketbot.xyz](https://socketbot.xyz) and has contributed to code of the bot!
 
@@ -24,3 +24,12 @@ I'd like to thank everyone who've Contributed in any way to this project! That's
 <a href="https://github.com/Socket-Development/website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=socket-development&repo=website&title_color=7ad3ff&icon_color=7ad3ff&text_color=9f9f9f&bg_color=12131A&show_owner=true" />
 </a>
+
+-------------------
+
+# 📫 Contact
+
+// If you would like to get in touch with me, your best option would be to send a DM through [Discord](https://discord.com/).
+
+<a href="https://twitter.com/MountainT144">![Twitter](https://img.shields.io/badge/MountainT144-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> 
+![Discord](https://img.shields.io/badge/MountainTiger%239733-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
