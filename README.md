@@ -2,8 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7AD3FF&size=30&lines=MountainTiger;Founder+Of+Socket+Bot;A+Discord+Bot+Developer;Learning+New+Skills)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -64,3 +62,9 @@ I'd like to thank everyone who've Contributed in any way to this project! That's
 
 <a href="https://twitter.com/MountainT144">![Twitter](https://img.shields.io/badge/MountainT144-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> 
 ![Discord](https://img.shields.io/badge/MountainTiger%239733-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+-------------------
+
+[![Repos Badge](https://badges.pufler.dev/repos/mountaintiger144)](https://badges.pufler.dev) 
+[![Visits Badge](https://badges.pufler.dev/visits/mountaintiger144/mountaintiger144)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/mountaintiger144/mountaintiger144)](https://badges.pufler.dev)
