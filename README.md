@@ -1,5 +1,5 @@
 ### Hey there, I'm...
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7AD3FF&size=30&lines=MountainTiger;Founder+Of+Socket+Bot;A+Discord+Bot+Developer;Learning+New+Skills)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7AD3FF&size=30&lines=MountainTiger;Founder+Of+Socket+Bot;A+Discord+Bot+Developer;Learning+New+Skills)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
