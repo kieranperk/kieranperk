@@ -1,17 +1,5 @@
 ### Hey there, I'm...
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7AD3FF&size=30&lines=MountainTiger;Founder+Of+Socket+Bot;A+Discord+Bot+Developer;Learning+New+Skills)
-
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    4 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-🌃 Evening    11 commits     ████████████░░░░░░░░░░░░░   50.0% 
-🌙 Night      7 commits      ████████░░░░░░░░░░░░░░░░░   31.82%
-
-```
-<!--END_SECTION:waka-->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300DDFF&vCenter=true&width=60&lines=MountainTiger144;A+Full+Stack+Developer;A+Discord+Bot+Creator;Always+Learning+New+Skills)
 
 -------------------
 # 🧱 Languages and Tools
