@@ -1,5 +1,5 @@
 ### Hey there, I'm...
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300DDFF&vCenter=true&width=60&lines=MountainTiger144;A+Full+Stack+Developer;A+Discord+Bot+Creator;Always+Learning+New+Skills)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300DDFF&vCenter=true&width=600&lines=MountainTiger144;A+Full+Stack+Developer;A+Discord+Bot+Creator;Always+Learning+New+Skills)
 
 -------------------
 # 🧱 Languages and Tools
