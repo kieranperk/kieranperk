@@ -1,58 +1,54 @@
-### Hey there, I'm...
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300DDFF&vCenter=true&width=600&lines=MountainTiger144;A+Full+Stack+Developer;A+Discord+Bot+Creator;Always+Learning+New+Skills)
+<div align="center">
 
--------------------
-# 🧱 Languages and Tools
+  ![GitHub followers](https://img.shields.io/github/followers/MountainTiger144?style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/MountainTiger144?style=for-the-badge) ![wakatime](https://wakatime.com/badge/github/MountainTiger144/MountainTiger144.svg?style=for-the-badge)
 
-[![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+  ---
+
+  ### Hey there, I'm...
+
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300ddff&size=25&center=true&width=600&lines=MountainTiger144;A+Full+Stack+Developer;A+Discord+Bot+Creator;Always+Learning+New+Skills)
+
+  [**Explore »**](#About-Me)
+</div>
+
+---
+<br />
+
+## About Me
+Hello! I'm Mountain and I love to code and to collaborate with others!
+
+<br />
+
+## 🧱 Languages and Tools
+
 ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
 ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+
 [![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 [![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=whit)](https://git-scm.com/)
-[![image](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.google.co.uk/chrome/)
+
 [![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-au/windows)
+[![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![image](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
 [![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/products/photoshop.html)
-[![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
 
--------------------
+<br />
 
-# 📊 My Github Stats
+## 📊 My Github Stats
 
-<a href="https://github.com/mountaintiger144">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mountaintiger144&bg_color=12131A&title_color=7ad3ff&text_color=fff&show_icons=true&icon_color=7ad3ff" />
-</a>
+![ReadMe](https://github-readme-stats.vercel.app/api?username=mountaintiger144&bg_color=12131A&title_color=00ddff&text_color=fff&show_icons=true&icon_color=00ddff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mountaintiger144&layout=compact&bg_color=12131A&title_color=00ddff&text_color=fff)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MountainTiger144&layout=compact&bg_color=12131A&title_color=00ddff&text_color=fff)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MountainTiger144&theme=dark&background=12131A&stroke=FFFFFF&border=FFFFFF&ring=7AD3FF&fire=7AD3FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=CACACA&sideLabels=CACACA)](https://git.io/streak-stats)
+<br />
 
--------------------
+## 📫 Contact
 
-# ⚙ Socket Development
+If you would like to get in touch with me, your best option would be to send a DM through [Discord](https://discord.com/).
 
-Socket is a Discord Bot that I founded on the 12th, August 2021. My original purpose for the bot was nothing but to help me understand the newest version of [Discord.JS](https://discord.js.org/) (v13). This eventually turned into making a full bot [Support Server](https://support.socketbot.xyz) on Discord, and getting others to contribute to the project. None of this would have been possible withought [Nimbi](https://github.com/PhantomNimbi), who gratefully let/helped me host Socket on his servers. He also coded the website [socketbot.xyz](https://socketbot.xyz) and has contributed to code of the bot!
+[![Twitter Follow](https://img.shields.io/twitter/follow/mountaint144?color=000&logo=Twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/mountaint144)  , [![Discord](https://img.shields.io/discord/839158231250894929?color=000&label=Discord&logo=Discord&logoColor=fff&style=for-the-badge)](https://discord.gg/kQBCzvMdEr)
 
-Socket also has its own [documentation/guide](https://docs.socketbot.xyz/), hosted on [Gitbook](https://gitbook.io/), which includes everything you need to know about Socket and it's commands.
-
-I'd like to thank everyone who've Contributed in any way to this project! That's why, in our [documentation](https://docs.socketbot.xyz/), under the "[Acknowledgement](https://docs.socketbot.xyz/other/acknowledgement)" page, Contributors, Developers and [Patreons](https://www.patreon.com/socketbot) will find their names listed forever.
-
-<a href="https://github.com/Socket-Development/website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=socket-development&repo=website&title_color=7ad3ff&icon_color=7ad3ff&text_color=9f9f9f&bg_color=12131A&show_owner=true" />
-</a>
-
--------------------
-
-# 📫 Contact
-
-// If you would like to get in touch with me, your best option would be to send a DM through [Discord](https://discord.com/).
-
-<a href="https://twitter.com/MountainT144">![Twitter](https://img.shields.io/badge/MountainT144-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> 
-![Discord](https://img.shields.io/badge/MountainTiger%239733-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-
--------------------
-
-[![Repos Badge](https://badges.pufler.dev/repos/mountaintiger144)](https://badges.pufler.dev) 
-[![Visits Badge](https://badges.pufler.dev/visits/mountaintiger144/mountaintiger144)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/mountaintiger144/mountaintiger144)](https://badges.pufler.dev)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCipY_gkgqJhPMr8fVEMcfbw?color=000&label=YouTube&logo=Youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/mountaintiger) , [![Twitch Status](https://img.shields.io/twitch/status/mountaint144?color=000&logo=Twitch&logoColor=fff&style=for-the-badge)](https://twitch.tv/mountaint144)
