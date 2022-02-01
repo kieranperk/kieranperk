@@ -41,7 +41,6 @@ Hello! I'm Mountain and I love to code and to collaborate with others!
 
 ![ReadMe](https://github-readme-stats.vercel.app/api?username=mountaintiger144&bg_color=12131A&title_color=00ddff&text_color=fff&show_icons=true&icon_color=00ddff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mountaintiger144&layout=compact&bg_color=12131A&title_color=00ddff&text_color=fff)
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MountainTiger144&layout=compact&bg_color=12131A&title_color=00ddff&text_color=fff)
 
 <br />
 
