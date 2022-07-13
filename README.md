@@ -6,7 +6,7 @@
 
   ### Hey there, I'm...
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300ddff&size=25&center=true&width=600&lines=MountainTiger144;A+Full+Stack+Developer;A+Discord+Bot+Creator;Always+Learning+New+Skills)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300ddff&size=25&center=true&width=600&lines=MountainT144;A+Discord+Bot+Creator;Always+Learning+New+Skills)
 
   [**Explore »**](#About-Me)
 </div>
@@ -41,13 +41,3 @@ Hello! I'm Mountain and I love to code and to collaborate with others!
 
 ![ReadMe](https://github-readme-stats.vercel.app/api?username=mountaintiger144&bg_color=12131A&title_color=00ddff&text_color=fff&show_icons=true&icon_color=00ddff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mountaintiger144&layout=compact&bg_color=12131A&title_color=00ddff&text_color=fff)
-
-<br />
-
-## 📫 Contact
-
-If you would like to get in touch with me, your best option would be to send a DM through [Discord](https://discord.com/).
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/mountaint144?color=000&logo=Twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/mountaint144)  , [![Discord](https://img.shields.io/discord/839158231250894929?color=000&label=Discord&logo=Discord&logoColor=fff&style=for-the-badge)](https://discord.gg/kQBCzvMdEr)
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCipY_gkgqJhPMr8fVEMcfbw?color=000&label=YouTube&logo=Youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/mountaintiger) , [![Twitch Status](https://img.shields.io/twitch/status/mountaint144?color=000&logo=Twitch&logoColor=fff&style=for-the-badge)](https://twitch.tv/mountaint144)
