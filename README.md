@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=49&pause=1000&color=00DDFF&vCenter=true&width=800&height=50&lines=Kieran+Perkinton;A+Developer;A+Cinematographer;A+Cool+Person" alt="Typing SVG" />
 </a>
 
-I love coding simple and basic programs in python, like [Carter Assistant](https://github.com/kieranperk/CarterAssistant) or my upcoming [Pokemon - ASCII EDITION](https://github.com/kieranperk/Pokemon-Ascii), and have fun overlooking simple fixes and creating over the top solutions for them. However, I am working on trying to code more smartly and efficiently (just give me a few more years and I'll be there!).
+I love coding simple and basic programs in python, javascript, and my latest language java! And I have fun overlooking simple fixes and creating over the top solutions for them. However, I am working on trying to code more smartly and efficiently (just give me a few more years and I'll be there!).
 
 ---
 ### 📊 Stats
