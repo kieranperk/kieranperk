@@ -1,11 +1,11 @@
 <h3>Hey there, I'm...</h3>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=49&pause=1000&color=00DDFF&vCenter=true&width=800&height=50&lines=Kieran+Perkinton;A+Developer;A+Cinematographer;A+Designer;A+Cool+Person" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=49&pause=1000&color=ffffff&vCenter=true&width=800&height=60&lines=Kieran+Perkinton;A+Developer;A+Designer;A+Cool+Person" alt="Typing SVG" />
 </a>
 
 - I love coding simple programs in python, javascript, and my latest language java! 
 - I have fun overlooking simple fixes and creating over the top solutions for them!
-
+- I'm currently developing [NumberScroller.com](https://numberscroller.com) // [GitHub Repo](https://github.com/kieranperk/Number-Scroller)
 ---
 <details>
   <summary> 📊 Stats</summary>
