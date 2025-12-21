@@ -1,6 +1,6 @@
 <h3>Hey there, I'm...</h3>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=49&pause=1000&color=ffffff&vCenter=true&width=800&height=60&lines=Kieran+Perkinton;A+Developer;A+Designer;A+Cool+Person" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=49&pause=1000&color=ffffff&vCenter=true&width=800&height=60&lines=Kieran+Perkinton;A+Developer;A+Photographer" alt="Typing SVG" />
 </a>
 
 - I love coding simple programs in python, javascript, and my latest language java! 
