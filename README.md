@@ -5,7 +5,7 @@
 
 - I love coding simple programs in python, javascript, and my latest language java! 
 - I have fun overlooking simple fixes and creating over the top solutions for them!
-- I'm currently developing [NumberScroller](https://kieranperk.github.io/Number-Scroller/) // [GitHub Repo](https://github.com/kieranperk/Number-Scroller)
+- I'm currently developing [InitLife](https://initlife.app/) // [GitHub Repo](https://github.com/kieranperk/InitLife)
 ---
 <details>
   <summary> 📊 Stats</summary>
