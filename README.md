@@ -9,7 +9,7 @@
 ---
 <details>
   <summary> 📊 Stats</summary>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kieranperk&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kieranperk&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kieranperk&show_icons=true&bg_color=1F222EFF&hide_border=true&icon_color=00DDFF&text_color=FFFFFF&title_color=00DDFF&hide_title=true&card_width=470" />
   </a>
