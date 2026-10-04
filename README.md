@@ -3,9 +3,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=49&pause=1000&color=ffffff&vCenter=true&width=800&height=60&lines=Kieran+Perkinton;A+Developer;A+Photographer" alt="Typing SVG" />
 </a>
 
+<a href="https://github.com/kieranperk?tab=followers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/followers/kieranperk.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Followers" src="https://www.shieldcn.dev/github/followers/kieranperk.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a>
+<a href="https://github.com/kieranperk?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/kieranperk.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/kieranperk.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a>
+<a href="https://github.com/kieranperk?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Repos-12-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-12-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=light"></picture></a>
+
 - I love coding simple programs in python, javascript, and my latest language java! 
 - I have fun overlooking simple fixes and creating over the top solutions for them!
-- I'm currently developing [InitLife](https://initlife.app/) // [GitHub Repo](https://github.com/kieranperk/InitLife)
+- I'm currently developing [MysticIsles](https://discord.gg/f86EMppExX) // [GitHub Repo](https://github.com/MysticIsles)
+
+![badge](https://shieldcn.dev/badge/HTML.svg?logo=html5)
+![badge](https://shieldcn.dev/badge/JavaScript.svg?logo=javascript&color=fcdc00)
+![badge](https://shieldcn.dev/badge/Java.svg?logo=ri%3AFaJava&color=f29111)
+
 ---
 <details>
   <summary> 📊 Stats</summary>
@@ -19,6 +28,7 @@
 </details>
 <details>
   <summary> ⭐ Favourite Tools</summary>
+  
   <a href="https://www.microsoft.com/software-download/windows11">
     <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" alt="Windows 11"/>
   </a>
